@@ -32,7 +32,7 @@
 
 
 
-상세 설명
+**상세 설명**
 
 
 로그인 창 / 회원 가입은 총 두 개의 js 파일로 만들었고 (scss 제외)
@@ -51,7 +51,7 @@ Fetch 함수를 써 서버와 통신하고
 
 
 
-
+<br />
 <br />
 
 #### 상품 상세
@@ -66,7 +66,7 @@ Fetch 함수를 써 서버와 통신하고
 - 모달 창에서 장바구니 가기 클릭시 제품이 장바구니에 담기며 장바구니로 이동 
 
 <br />
-
+<br />
 
 
 **상세 페이지 기능 구현 관련**
@@ -100,9 +100,29 @@ useRef 를 homeRef 변수에 담아 이를 가장 마지막에 있는 리뷰창�
 
 
 
+** 커뮤니케이션 **
+
+
+![트렐로](https://img1.daumcdn.net/thumb/R1280x0/?scode=mtistory2&fname=https%3A%2F%2Fblog.kakaocdn.net%2Fdn%2FOKkVP%2FbtrKHcvccXv%2Fceqr7TPFi7dpRckPgnkoEk%2Fimg.png)
+
+팀원과 작업 진행 사항 공유를 위해 트렐로를 사용하였습니다.
 
 
 
+![구글시트](https://img1.daumcdn.net/thumb/R1280x0/?scode=mtistory2&fname=https%3A%2F%2Fblog.kakaocdn.net%2Fdn%2FqLyv3%2FbtrKHw1idfO%2Fqg4bV8unkSuTshi8T8CIkk%2Fimg.png)
+
+백엔드 분들과 URL, data 형식 등 원활한 소통을 위해 googlesheet 를 사용하였습니다.
+
+
+
+![플로우차트](https://img1.daumcdn.net/thumb/R1280x0/?scode=mtistory2&fname=https%3A%2F%2Fblog.kakaocdn.net%2Fdn%2Fn7wGI%2FbtrKJ4JJ638%2FU2K1flR17hVMtVzKLd6FU1%2Fimg.jpg)
+
+
+전체적인 흐름을 되짚어 보기 위해 프로젝트 5일차, 전 팀원이 모여 플로우 차트를 짜는 회의를 진행하였습니다.
+백엔드-프론트엔드와의 소통과 프론트엔드 안에서의 소통이 원활하게 이루어져 소통이 어긋났던 부분을 세세히 체크했습니다.
+
+
+<br />
 <br />
 
 # Reference
