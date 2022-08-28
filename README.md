@@ -24,7 +24,7 @@
 <br />
 <br />
 
-#### 로그인/회원가입 
+#### 로그인/회원가입 페이지
 ![로그인](https://blog.kakaocdn.net/dn/btGJ8L/btrKGp2I5Pl/do5RvatE0KIkYPpOWQ93y0/img.gif)
 - 로그인창에서 회원가입 버튼 누를시 회원가입 창으로 넘어갑니다
 - 회원가입창/ 로그인창에서 아이디 창 '@', 5글자 && 비밀번호 창 5글자 이상 입력시 회원가입 버튼 활성화 (비밀번호 영문 소대문자 없을 시 알림창 뜸)
@@ -57,7 +57,7 @@ Fetch 함수를 써 서버와 통신하고
 <br />
 <br />
 
-#### 상품 상세
+#### 상품 상세 페이지
 
 ![상세](https://blog.kakaocdn.net/dn/Gn5Xk/btrKGRDLagS/NbKK2AwoV19ixffDPoDqR0/img.gif)
 ![상세2](https://blog.kakaocdn.net/dn/dltnVp/btrKGOf9axq/4l3PCVMFlp4R9Y3MfMnBbk/img.gif)
