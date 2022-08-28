@@ -53,6 +53,7 @@ Fetch 함수를 써 서버와 통신하고
 
 <br />
 <br />
+<br />
 
 #### 상품 상세
 
@@ -74,7 +75,8 @@ Fetch 함수를 써 서버와 통신하고
 
 상세 정보를 받아오는 (동적 데이터 사용, method : GET) 함수와 장바구니로 가기 버튼과 구매하기 버튼에 총 3개의 Fetch 함수를 사용했습니다
 
-
+<br />
+<br />
 
 **상품 정보를 받아오는 fetch 관련**
 
@@ -82,6 +84,8 @@ params 를 이용해 정보를 받고 params.id를 productId 라는 변수에 �
 product 데이터는 객체 안의 배열로 오기 때문에 useState에 ([]) 빈 배열을 넣어 주었고
 데이터 형식에 따라 각각 name, thumbnail_image_url, price, detail, stock 을 구조 분해 할당해 각각 필요한 곳에 넣었습니다
 
+<br />
+<br />
 
 **장바구니 / 구매하기 fetch 함수 관련**
 
@@ -92,6 +96,7 @@ method : post 로 서버에 수량을 담아 보내주었고 수량이 재고가
 재고 수량 관련해서 서버에서 401 코드로 재고 이상 구매 할 수 없도록 막아 놓았으나 이중 보안을 위해 제품 카운트 할 시 알림창에 뜨게끔 막아놓았습니다.
 각각 up버튼, down버튼 각각 삼항자를 써 얼리 리턴 형식으로 로직을 짰습니다.
  
+<br />
 
 **상세 페이지 내 리뷰 칸으로 슬라이드 하는 기능**
 
@@ -99,21 +104,37 @@ useRef 를 homeRef 변수에 담아 이를 가장 마지막에 있는 리뷰창�
 스르륵 넘어갈 수 있도록 {behavior : 'smooth'} 스타일을 걸었습니다.
 
 
+<br />
+<br />
+<br />
+
+
 
 ** 커뮤니케이션 **
 
+<br />
+<br />
+
+** Trello **
 
 ![트렐로](https://img1.daumcdn.net/thumb/R1280x0/?scode=mtistory2&fname=https%3A%2F%2Fblog.kakaocdn.net%2Fdn%2FOKkVP%2FbtrKHcvccXv%2Fceqr7TPFi7dpRckPgnkoEk%2Fimg.png)
 
 팀원과 작업 진행 사항 공유를 위해 트렐로를 사용하였습니다.
 
+<br />
+<br />
 
+
+** google SpreadSheet (API 명세서 공유) **
 
 ![구글시트](https://img1.daumcdn.net/thumb/R1280x0/?scode=mtistory2&fname=https%3A%2F%2Fblog.kakaocdn.net%2Fdn%2FqLyv3%2FbtrKHw1idfO%2Fqg4bV8unkSuTshi8T8CIkk%2Fimg.png)
 
 백엔드 분들과 URL, data 형식 등 원활한 소통을 위해 googlesheet 를 사용하였습니다.
 
+<br />
+<br />
 
+** flow-chart  **
 
 ![플로우차트](https://img1.daumcdn.net/thumb/R1280x0/?scode=mtistory2&fname=https%3A%2F%2Fblog.kakaocdn.net%2Fdn%2Fn7wGI%2FbtrKJ4JJ638%2FU2K1flR17hVMtVzKLd6FU1%2Fimg.jpg)
 
@@ -121,7 +142,7 @@ useRef 를 homeRef 변수에 담아 이를 가장 마지막에 있는 리뷰창�
 전체적인 흐름을 되짚어 보기 위해 프로젝트 5일차, 전 팀원이 모여 플로우 차트를 짜는 회의를 진행하였습니다.
 백엔드-프론트엔드와의 소통과 프론트엔드 안에서의 소통이 원활하게 이루어져 소통이 어긋났던 부분을 세세히 체크했습니다.
 
-
+<br />
 <br />
 <br />
 
