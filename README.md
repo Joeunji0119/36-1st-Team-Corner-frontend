@@ -112,12 +112,12 @@ useRef 를 homeRef 변수에 담아 이를 가장 마지막에 있는 리뷰창�
 
 
 
-** 커뮤니케이션 **
+**커뮤니케이션**
 
 <br />
 <br />
 
-** Trello **
+**Trello**
 
 ![트렐로](https://img1.daumcdn.net/thumb/R1280x0/?scode=mtistory2&fname=https%3A%2F%2Fblog.kakaocdn.net%2Fdn%2FOKkVP%2FbtrKHcvccXv%2Fceqr7TPFi7dpRckPgnkoEk%2Fimg.png)
 
@@ -127,7 +127,7 @@ useRef 를 homeRef 변수에 담아 이를 가장 마지막에 있는 리뷰창�
 <br />
 
 
-** google SpreadSheet (API 명세서 공유) **
+**google SpreadSheet (API 명세서 공유)**
 
 ![구글시트](https://img1.daumcdn.net/thumb/R1280x0/?scode=mtistory2&fname=https%3A%2F%2Fblog.kakaocdn.net%2Fdn%2FqLyv3%2FbtrKHw1idfO%2Fqg4bV8unkSuTshi8T8CIkk%2Fimg.png)
 
@@ -136,7 +136,7 @@ useRef 를 homeRef 변수에 담아 이를 가장 마지막에 있는 리뷰창�
 <br />
 <br />
 
-** flow-chart  **
+**flow-chart**
 
 ![플로우차트](https://img1.daumcdn.net/thumb/R1280x0/?scode=mtistory2&fname=https%3A%2F%2Fblog.kakaocdn.net%2Fdn%2Fn7wGI%2FbtrKJ4JJ638%2FU2K1flR17hVMtVzKLd6FU1%2Fimg.jpg)
 
