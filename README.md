@@ -22,6 +22,7 @@
 - 조민재 : 내비게이션 바/푸터, 상품 검색 기능, 장바구니 페이지
 
 <br />
+<br />
 
 #### 로그인/회원가입 
 ![로그인](https://blog.kakaocdn.net/dn/btGJ8L/btrKGp2I5Pl/do5RvatE0KIkYPpOWQ93y0/img.gif)
@@ -31,6 +32,7 @@
 - 왼측 상단 로고 클릭시 메인으로 이동
 
 
+<br />
 
 **상세 설명**
 
